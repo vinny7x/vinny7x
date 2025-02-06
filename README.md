@@ -9,4 +9,4 @@ Sou um desenvolvedor apaixonado por tecnologia e programação.
 ---
 ### 📊 **GitHub Stats**
 ![Vinny7x GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=vinny7x&theme=tokyonight&show_icons=true&locale=pt-br)
-![Vinny7x linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=vinny7x&hide_progress=false&theme=tokyonight&locale=pt-br)
+![Vinny7x linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=vinny7x&hide_progress=false&theme=tokyonight&locale=pt-br&layout=compact)
