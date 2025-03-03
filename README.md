@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Vinny!
 Sou um desenvolvedor apaixonado por tecnologia e programação.
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🤔 Explorando novas tecnologias.
 - 🎓 Estudando **Sistemas de Informação** na **Gran** <img src="https://faculdade.grancursosonline.com.br/android-chrome-384x384.png" width="16px" align="center">
 ---
 ### 🚀 **Tech Stack**
