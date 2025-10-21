@@ -34,7 +34,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="visual studio code logo" />
 </div>
+
 ---
+
 ### 📊 **GitHub Stats**
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Vinny7x&theme=tokyonight&border=1f6feb&fire=EB5454&border_radius=15" alt="GitHub Streak" />
@@ -47,7 +49,9 @@
   <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinny7x&theme=tokyo-night&area=true&hide_border=true">
 </div>
+
 ---
+
 ### 🌐 **Redes**
 <div align="center">
   <a href="https://www.linkedin.com/in/vinicios-mendes/" target="_blank">
@@ -60,7 +64,9 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
   </a>
 </div>
+
 ---
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinny7x/vinny7x/output/pacman-contribution-graph-dark.svg">
