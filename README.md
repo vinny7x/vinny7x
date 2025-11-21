@@ -39,10 +39,6 @@
 
 ### 📊 **GitHub Stats**
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Vinny7x&theme=tokyonight&border=1f6feb&fire=EB5454&border_radius=15" alt="GitHub Streak" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vinny7x&theme=tokyonight&border_color=1f6feb&border_radius=15&show_icons=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinny7x&hide_progress=false&theme=tokyonight&layout=compact&border_color=1f6feb&border_radius=15" alt="Top Langs" height="165" />
 </div>
