@@ -14,14 +14,12 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
 </div>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</div>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" />
 </div>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,vscode" />
 </div>
+
 ---
 
 ### 📊 **GitHub Stats**
