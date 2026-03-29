@@ -4,7 +4,7 @@
 
 <p align="center">
   • 🤔 Explorando novas tecnologias<br>
-  • 🎓 Estudando <strong>Sistemas de Informação</strong> na <strong>Gran</strong>
+  • 🎓 Cursando <strong>Engenharia de Software</strong> na <strong>Gran</strong>
 </p>
 
 ---
