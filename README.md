@@ -17,7 +17,7 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" />
 </div>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,vercel,vscode" />
 </div>
 
 ---
