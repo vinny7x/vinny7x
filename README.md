@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=435&lines=%7B+Vinny+%7D;%3C+Full+Stack+Developer+%2F%3E" alt="Typing" />
+</p>
+
 <h1 align="center">👋 Olá, eu sou o Vinny!</h1>
 
 <p align="center">
@@ -12,28 +16,16 @@
 
 ### 🚀 **Tech Stack**
 
-#### 🎨 Frontend
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
 </div>
 
-#### ⚙️ Backend
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,postgres,mongodb,sqlite" />
 </div>
 
-#### 🗄️ Banco de Dados
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite" />
-</div>
-
-#### 🛠️ Ferramentas
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,linux,vercel,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,vercel,vscode,idea" />
 </div>
 
 ---
@@ -58,7 +50,7 @@
 
   <img src="https://streak-stats.demolab.com?user=vinny7x&theme=transparent&locale=pt_BR&mode=weekly" alt="GitHub Streak" />
 
-<br>
+  <br>
 
   <img src="https://github-readme-stats.vercel.app/api?username=vinny7x&show_icons=true&theme=transparent&hide_border=true&locale=pt-br" />
 
@@ -82,12 +74,16 @@
 
 </div>
 
----
+<br>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinny7x/vinny7x/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vinny7x/vinny7x/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vinny7x/vinny7x/output/pacman-contribution-graph.svg">
-  </picture>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=transparent&height=1" />
+</p>
+
+<p align="center">
+  <code>{</code>
+  <code>•</code>
+  <code>•</code>
+  <code>•</code>
+  <code>}</code>
 </p>
